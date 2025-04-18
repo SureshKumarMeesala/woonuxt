@@ -1,6 +1,6 @@
 [template.environment]
-  GQL_HOST = "WordPress URL http://example.com"
-  NUXT_IMAGE_DOMAINS = "Comma separated list of domains. example.com,example2.com"
+  GQL_HOST = "https://dev.swetasboutique.com/graphql"
+  NUXT_IMAGE_DOMAINS = "dev.swetasboutique.com"
 
 [build]
   command = "nuxt generate"
